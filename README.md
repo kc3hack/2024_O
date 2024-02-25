@@ -1,8 +1,9 @@
-# プロダクト名 
+# Chum Chum Evaluation
 <!-- プロダクト名に変更してください -->
 
-![プロダクト名](https://kc3.me/cms/wp-content/uploads/2023/11/2b1b6d9083182c0ce0aeb60000b4d7a7.png)
-<!-- プロダクト名・イメージ画像を差し変えてください -->
+![プロダクト名]()<img width="611" alt="Logo" src="https://github.com/kc3hack/2024_O/assets/109881263/84a5ebb3-4aa0-49f5-90ad-2af8432ac67e">
+
+
 
 
 ## チーム名
