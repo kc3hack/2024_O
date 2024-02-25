@@ -32,9 +32,7 @@ TensolFlowというライブラリを使用している．<br>
 <img width="252" alt="image" src="https://github.com/kc3hack/2024_O/assets/109881263/b14a7ba3-89ab-4373-a8ff-53f15f5b289d">
 
 アップロード画面では2本の動画をアップロードし，その任意の部位からの2本のベクトルから算出される角度が2本の動画の間でどれほど異なっているのかということを点数化している．<br>
- グラフィカル ユーザー インターフェイス, アプリケーション
 
-自動的に生成された説明
 <img width="253" alt="image" src="https://github.com/kc3hack/2024_O/assets/109881263/fb2b64f5-44b4-45de-ac4f-718b60115439">
 
 
@@ -60,7 +58,7 @@ TensolFlowは任意の部位の座標を出すライブラリである．​<br>
 
 
 ## 使用技術
-TensolFlow
+TensolFlow<br>
 Android　Studio
 
 <!-- 使用技術を入力してください -->
