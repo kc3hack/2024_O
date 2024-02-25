@@ -21,7 +21,7 @@
 ## プロダクト説明
 <!-- 開発したプロダクトの説明を入力してください -->
 ダンス採点アプリ<br>
-<img width="254" alt="image" src="https://github.com/kc3hack/2024_O/assets/109881263/953cacc5-d449-47b8-bdf6-0e7b7e0a87e2">
+<img width="154" alt="image" src="https://github.com/kc3hack/2024_O/assets/109881263/953cacc5-d449-47b8-bdf6-0e7b7e0a87e2">
 
 TensolFlowというライブラリを使用している．<br>
 このライブラリを使用することによって人体の部位，肩，目，鼻の位置などを検出できるようになっている．<br>
