@@ -59,7 +59,8 @@ TensorFlowは任意の部位の座標を出すライブラリである．​<br>
 
 ## 使用技術
 TensorFlow<br>
-Android　Studio
+AndroidStudio
+MoveNet
 
 <!-- 使用技術を入力してください -->
 
