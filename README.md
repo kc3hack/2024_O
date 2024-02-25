@@ -21,16 +21,26 @@
 ## プロダクト説明
 <!-- 開発したプロダクトの説明を入力してください -->
 ダンス採点アプリ<br>
+<img width="254" alt="image" src="https://github.com/kc3hack/2024_O/assets/109881263/953cacc5-d449-47b8-bdf6-0e7b7e0a87e2">
 
 TensolFlowというライブラリを使用している．<br>
 このライブラリを使用することによって人体の部位，肩，目，鼻の位置などを検出できるようになっている．<br>
+<img width="609" alt="image" src="https://github.com/kc3hack/2024_O/assets/109881263/7648c842-08a2-46a0-98c2-e0bcef20edd8">
+
 
 使用方法としてはアプリの指定の手順に従ってアップロード画面まで進む．<br>
+<img width="252" alt="image" src="https://github.com/kc3hack/2024_O/assets/109881263/b14a7ba3-89ab-4373-a8ff-53f15f5b289d">
+
 アップロード画面では2本の動画をアップロードし，その任意の部位からの2本のベクトルから算出される角度が2本の動画の間でどれほど異なっているのかということを点数化している．<br>
+ グラフィカル ユーザー インターフェイス, アプリケーション
+
+自動的に生成された説明
+<img width="253" alt="image" src="https://github.com/kc3hack/2024_O/assets/109881263/fb2b64f5-44b4-45de-ac4f-718b60115439">
+
 
 これを使用し，ベクトルを計算することによって内積を計算する．<br>
-これを使って角度を検出することによって<br>
-
+これを使って角度を検出することによって手本との差異を検出している<br>
+<img width="475" alt="image" src="https://github.com/kc3hack/2024_O/assets/109881263/0245a37f-0f03-4200-a2c0-23411a7a90f9">
 
 
 ## 操作説明・デモ動画
